@@ -229,3 +229,25 @@ input {
   border: 0.1rem #c0c0c0 solid;
   border-radius: 0.5rem;
 }
+
+/* Fulfillment Styles */
+.unshipped-row {
+  color: #d90429;
+  font-weight: 500;
+}
+
+.status-unshipped {
+  color: #d90429;
+  background-color: #ffe5e5;
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.3rem;
+  font-weight: bold;
+}
+
+.status-shipped {
+  color: #2b9348;
+  background-color: #e8f5e9;
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.3rem;
+  font-weight: bold;
+}
